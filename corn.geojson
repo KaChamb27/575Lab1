@@ -1,0 +1,570 @@
+// USDA NASS avg. yield per corn acre, bushel, 2008-2017. Top 20 states. QuickStats tool. Retrieved 3Apr2018.
+//  Geocoded using http://www.gpsvisualizer.com/geocoder/ and Bing Maps.
+//   Converted csv to geojson: http://geojson.io 
+
+
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "2008": 205,
+        "2009": 215,
+        "2010": 205,
+        "2011": 225,
+        "2012": 215,
+        "2013": 215,
+        "2014": 215,
+        "2015": 215,
+        "2016": 235,
+        "2017": 225,
+        "State": "WASHINGTON",
+        "name": "WASHINGTON",
+        "desc": "Washington",
+        "color": "",
+        "source": "Bing Maps",
+        "precision": "state/province"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.5562668,
+          47.4112968
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "2008": 195,
+        "2009": 215,
+        "2010": 200,
+        "2011": 215,
+        "2012": 205,
+        "2013": 188,
+        "2014": 190,
+        "2015": 188,
+        "2016": 230,
+        "2017": 212,
+        "State": "OREGON",
+        "name": "OREGON",
+        "desc": "Oregon",
+        "color": "",
+        "source": "Bing Maps",
+        "precision": "state/province"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.5585861,
+          43.9388123
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "2008": 170,
+        "2009": 185,
+        "2010": 190,
+        "2011": 189,
+        "2012": 195,
+        "2013": 181,
+        "2014": 200,
+        "2015": 207,
+        "2016": 188,
+        "2017": 203,
+        "State": "IDAHO",
+        "name": "IDAHO",
+        "desc": "Idaho",
+        "color": "",
+        "source": "Bing Maps",
+        "precision": "state/province"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.6594162,
+          44.3890305
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "2008": 171,
+        "2009": 181,
+        "2010": 165,
+        "2011": 172,
+        "2012": 137,
+        "2013": 164,
+        "2014": 178,
+        "2015": 192,
+        "2016": 203,
+        "2017": 202,
+        "State": "IOWA",
+        "name": "IOWA",
+        "desc": "Iowa",
+        "color": "",
+        "source": "Bing Maps",
+        "precision": "state/province"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.4999695,
+          42.0746994
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "2008": 179,
+        "2009": 174,
+        "2010": 157,
+        "2011": 157,
+        "2012": 105,
+        "2013": 178,
+        "2014": 200,
+        "2015": 175,
+        "2016": 197,
+        "2017": 201,
+        "State": "ILLINOIS",
+        "name": "ILLINOIS",
+        "desc": "Illinois",
+        "color": "",
+        "source": "Bing Maps",
+        "precision": "state/province"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.1587677,
+          40.1139374
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "2008": 165,
+        "2009": 175,
+        "2010": 210,
+        "2011": 178,
+        "2012": 195,
+        "2013": 177,
+        "2014": 210,
+        "2015": 210,
+        "2016": 215,
+        "2017": 195,
+        "State": "ARIZONA",
+        "name": "ARIZONA",
+        "desc": "Arizona",
+        "color": "",
+        "source": "Bing Maps",
+        "precision": "state/province"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.6646957,
+          34.2930832
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "2008": 162,
+        "2009": 174,
+        "2010": 177,
+        "2011": 155,
+        "2012": 165,
+        "2013": 159,
+        "2014": 156,
+        "2015": 188,
+        "2016": 193,
+        "2017": 194,
+        "State": "MINNESOTA",
+        "name": "MINNESOTA",
+        "desc": "Minnesota",
+        "color": "",
+        "source": "Bing Maps",
+        "precision": "state/province"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.1983795,
+          46.3493538
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "2008": 125,
+        "2009": 145,
+        "2010": 114,
+        "2011": 130,
+        "2012": 135,
+        "2013": 166,
+        "2014": 200,
+        "2015": 192,
+        "2016": 170,
+        "2017": 189,
+        "State": "DELAWARE",
+        "name": "DELAWARE",
+        "desc": "Delaware",
+        "color": "",
+        "source": "Bing Maps",
+        "precision": "state/province"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.4674683,
+          39.0081253
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "2008": 140,
+        "2009": 128,
+        "2010": 136,
+        "2011": 128,
+        "2012": 165,
+        "2013": 176,
+        "2014": 185,
+        "2015": 175,
+        "2016": 166,
+        "2017": 189,
+        "State": "MISSISSIPPI",
+        "name": "MISSISSIPPI",
+        "desc": "Mississippi",
+        "color": "",
+        "source": "Bing Maps",
+        "precision": "state/province"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.6562424,
+          32.7218018
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "2008": 144,
+        "2009": 132,
+        "2010": 140,
+        "2011": 135,
+        "2012": 173,
+        "2013": 173,
+        "2014": 183,
+        "2015": 171,
+        "2016": 165,
+        "2017": 184,
+        "State": "LOUISIANA",
+        "name": "LOUISIANA",
+        "desc": "Louisiana",
+        "color": "",
+        "source": "Bing Maps",
+        "precision": "state/province"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.8519058,
+          30.9665108
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "2008": 152,
+        "2009": 148,
+        "2010": 150,
+        "2011": 141,
+        "2012": 178,
+        "2013": 186,
+        "2014": 187,
+        "2015": 181,
+        "2016": 171,
+        "2017": 183,
+        "State": "ARKANSAS",
+        "name": "ARKANSAS",
+        "desc": "Arkansas",
+        "color": "",
+        "source": "Bing Maps",
+        "precision": "state/province"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.4388733,
+          34.8999214
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "2008": 163,
+        "2009": 179,
+        "2010": 166,
+        "2011": 160,
+        "2012": 142,
+        "2013": 169,
+        "2014": 179,
+        "2015": 185,
+        "2016": 178,
+        "2017": 181,
+        "State": "NEBRASKA",
+        "name": "NEBRASKA",
+        "desc": "Nebraska",
+        "color": "",
+        "source": "Bing Maps",
+        "precision": "state/province"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.8111038,
+          41.5272713
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "2008": 160,
+        "2009": 171,
+        "2010": 157,
+        "2011": 146,
+        "2012": 99,
+        "2013": 177,
+        "2014": 188,
+        "2015": 150,
+        "2016": 173,
+        "2017": 180,
+        "State": "INDIANA",
+        "name": "INDIANA",
+        "desc": "Indiana",
+        "color": "",
+        "source": "Bing Maps",
+        "precision": "state/province"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.2817993,
+          39.9198036
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "2008": 136,
+        "2009": 165,
+        "2010": 124,
+        "2011": 139,
+        "2012": 68,
+        "2013": 170,
+        "2014": 158,
+        "2015": 172,
+        "2016": 159,
+        "2017": 178,
+        "State": "KENTUCKY",
+        "name": "KENTUCKY",
+        "desc": "Kentucky",
+        "color": "",
+        "source": "Bing Maps",
+        "precision": "state/province"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.2876205,
+          37.5272331
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "2008": 131,
+        "2009": 171,
+        "2010": 160,
+        "2011": 153,
+        "2012": 120,
+        "2013": 174,
+        "2014": 176,
+        "2015": 153,
+        "2016": 159,
+        "2017": 177,
+        "State": "OHIO",
+        "name": "OHIO",
+        "desc": "Ohio",
+        "color": "",
+        "source": "Bing Maps",
+        "precision": "state/province"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.7112122,
+          40.4130516
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "2008": 140,
+        "2009": 140,
+        "2010": 146,
+        "2011": 159,
+        "2012": 180,
+        "2013": 175,
+        "2014": 170,
+        "2015": 171,
+        "2016": 165,
+        "2017": 176,
+        "State": "GEORGIA",
+        "name": "GEORGIA",
+        "desc": "Georgia",
+        "color": "",
+        "source": "Bing Maps",
+        "precision": "state/province"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.4445572,
+          32.6483307
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "2008": 157,
+        "2009": 150,
+        "2010": 178,
+        "2011": 164,
+        "2012": 167,
+        "2013": 170,
+        "2014": 160,
+        "2015": 173,
+        "2016": 175,
+        "2017": 176,
+        "State": "UTAH",
+        "name": "UTAH",
+        "desc": "Utah",
+        "color": "",
+        "source": "Bing Maps",
+        "precision": "state/province"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.6782379,
+          39.3237381
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "2008": 137,
+        "2009": 153,
+        "2010": 162,
+        "2011": 155,
+        "2012": 120,
+        "2013": 145,
+        "2014": 156,
+        "2015": 164,
+        "2016": 178,
+        "2017": 174,
+        "State": "WISCONSIN",
+        "name": "WISCONSIN",
+        "desc": "Wisconsin",
+        "color": "",
+        "source": "Bing Maps",
+        "precision": "state/province"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.7367401,
+          44.6417885
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "2008": 121,
+        "2009": 145,
+        "2010": 106,
+        "2011": 109,
+        "2012": 122,
+        "2013": 158,
+        "2014": 175,
+        "2015": 164,
+        "2016": 152,
+        "2017": 172,
+        "State": "MARYLAND",
+        "name": "MARYLAND",
+        "desc": "Maryland",
+        "color": "",
+        "source": "Bing Maps",
+        "precision": "state/province"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.7012177,
+          38.9525223
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "2008": 118,
+        "2009": 148,
+        "2010": 117,
+        "2011": 131,
+        "2012": 85,
+        "2013": 156,
+        "2014": 168,
+        "2015": 160,
+        "2016": 151,
+        "2017": 171,
+        "State": "TENNESSEE",
+        "name": "TENNESSEE",
+        "desc": "Tennessee",
+        "color": "",
+        "source": "Bing Maps",
+        "precision": "state/province"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.3430481,
+          35.8430023
+        ]
+      }
+    }
+  ]
+}
